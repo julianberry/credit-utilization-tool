@@ -2,7 +2,7 @@
 
 ## A C++ program that aims to help users calculate suggested credit card payments to optimize total utilization, maximizing their potential to improve their credit score.
 
-This tool helps users make decide how much to pay towards their credit cards before their statement balance. Targets ranging from 5% to 25% credit utilization give users flexibility in their balance between financing purchases and improving their credit score. The program also prioritizes cards with a higher existing utilization, and suggests the payment amount to keep them below 30% utilization, minimizing risk. 
+This tool helps users decide how much to pay towards their credit cards before their statement balance. Targets ranging from 5% to 25% credit utilization give users flexibility in their balance between financing purchases and improving their credit score. The program also prioritizes cards with a higher existing utilization, and suggests the payment amount to keep them below 30% utilization, minimizing risk. 
 
 ![Sample Output](sample_output.png)
 
